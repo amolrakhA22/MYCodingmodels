@@ -1,4 +1,5 @@
 #Python Program to demonstrate odd_even number
+#By Amol Rakh
 num = input("Enter an integer: ")
 
 #using exception handling
