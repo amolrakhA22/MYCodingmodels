@@ -1,2 +1,8 @@
 # MY-Coding-models
-All types of basic codes within different Programming languages 
+This repository is usefull for all programers, engineers, and all type students 
+
+**contains
+- all type of basic codes available here as               from beginners to advance level
+- all programming languages (Python, C++, C, oop's) codes within it 
+- all languages concepts based code is written 
+
